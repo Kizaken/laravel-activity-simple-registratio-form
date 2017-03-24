@@ -1,3 +1,23 @@
+![alt text][img1]Home
+![alt text][img2]Registration
+![alt text][img3]Edit
+![alt text][img4]Updated
+![alt text][img5]Delete
+![alt text][img6]Deleted
+![alt text][img7]Add
+
+[img1]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/regForm.PNG
+[img2]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/Edit.PNG
+[img3]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/updated.PNG
+[img4]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/updated.PNG
+[img5]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/delete.PNG
+[img6]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/deleted.PNG
+[img7]:https://github.com/Kizaken/laravel-activity-simple-registratio-form/blob/master/Add.PNG
+
+
+
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
